@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Melvin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melvinvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="melvinvarghese" /> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinvarghese&show_icons=true&locale=en&layout=compact" alt="melvinvarghese" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mvonthefloor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvonthefloor" height="30" width="40" /></a>
@@ -16,4 +18,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/melvinvarghese"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="melvinvarghese" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinvarghese&show_icons=true&locale=en&layout=compact" alt="melvinvarghese" /></p>
+

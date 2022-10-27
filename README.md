@@ -11,11 +11,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MelvinVarghese"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MelvinVarghese" /></a><a href="https://ko-fi.com/melvinvarghese"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="melvinvarghese" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinvarghese&show_icons=true&locale=en&layout=compact" alt="melvinvarghese" /></p>
+<p><a href="https://ko-fi.com/melvinvarghese"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="melvinvarghese" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melvinvarghese&show_icons=true&locale=en" alt="melvinvarghese" /></p>

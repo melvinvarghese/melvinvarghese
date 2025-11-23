@@ -4,8 +4,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melvinvarghese&show_icons=true&locale=en&layout=compact" alt="melvinvarghese" /></p>
 
 <h3 align="left">Connect with me:</h3>
+ [![Website](https://img.shields.io/badge/Website-melvinvarghese.in-blue?style=for-the-badge)](https://melvinvarghese.in/) <br>
 <p align="left">
- [![Website](https://img.shields.io/badge/Website-melvinvarghese.in-blue?style=for-the-badge)](https://melvinvarghese.in/)
 <a href="https://twitter.com/mvonthefloor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvonthefloor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/melvinvarghese32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvinvarghese32" height="30" width="40" /></a>
 <a href="https://fb.com/mvonthefloor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mvonthefloor" height="30" width="40" /></a>

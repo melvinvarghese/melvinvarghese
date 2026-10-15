@@ -1,24 +1,41 @@
-<h1 align="center">Hi 👋, I'm Melvin</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=melvinvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="melvinvarghese" /> </p>
+ <div align="center">
+
+# Hi 👋, I'm Melvin
+
+<img src="https://komarev.com/ghpvc/?username=melvinvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+<br/>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=6&theme=transparent)
 
-<h3 align="center">Connect with me:</h3>
- <p align="center">
-  <a href="https://melvinvarghese.in/">
-    <img src="https://img.shields.io/badge/Website-melvinvarghese.in-blue?style=for-the-badge" alt="Website" />
-  </a>
-</p>
+## Connect with me
 
-<p align="center">
-<a href="https://twitter.com/mvonthefloor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvonthefloor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/melvinvarghese32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvinvarghese32" height="30" width="40" /></a>
-<a href="https://fb.com/mvonthefloor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mvonthefloor" height="30" width="40" /></a>
-<a href="https://instagram.com/melvinvarghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melvinvarghese" height="30" width="40" /></a>
-<a href="https://medium.com/@melvinvarghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melvinvarghese" height="30" width="40" /></a>
-</p>
-<p> 
+<a href="https://melvinvarghese.in/">
+  <img src="https://img.shields.io/badge/Website-melvinvarghese.in-blue?style=for-the-badge" alt="Website" />
+</a>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3489LP)
+<br/><br/>
 
-</p>
+<a href="https://twitter.com/mvonthefloor">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/melvinvarghese32">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://fb.com/mvonthefloor">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<a href="https://instagram.com/melvinvarghese">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://medium.com/@melvinvarghese">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+</a>
+
+<br/><br/>
+
+<a href="https://ko-fi.com/J3J3489LP">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+</a>
+
+</div>

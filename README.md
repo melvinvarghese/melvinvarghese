@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melvin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melvinvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="melvinvarghese" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=melvinvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="melvinvarghese" /> </p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=6&theme=transparent)
 

@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Melvin
 
-<img src="https://komarev.com/ghpvc/?username=melvinvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 
 <br/>
 
@@ -37,5 +37,6 @@
 <a href="https://ko-fi.com/J3J3489LP">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
 </a>
-
+<br></br>
+<img src="https://komarev.com/ghpvc/?username=melvinvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>

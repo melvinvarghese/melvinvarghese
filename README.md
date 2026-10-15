@@ -3,14 +3,14 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=6&theme=transparent)
 
-<h3 align="left">Connect with me:</h3>
- <p align="left">
+<h3 align="center">Connect with me:</h3>
+ <p align="center">
   <a href="https://melvinvarghese.in/">
     <img src="https://img.shields.io/badge/Website-melvinvarghese.in-blue?style=for-the-badge" alt="Website" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/mvonthefloor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mvonthefloor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/melvinvarghese32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvinvarghese32" height="30" width="40" /></a>
 <a href="https://fb.com/mvonthefloor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mvonthefloor" height="30" width="40" /></a>

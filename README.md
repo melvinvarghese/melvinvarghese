@@ -58,6 +58,18 @@ Digital reading experiences, personal knowledge systems, Malayalam language tech
 - **X:** [@mvonthefloor](https://twitter.com/mvonthefloor)
 - **Instagram:** [@melvinvarghese](https://instagram.com/melvinvarghese)
 
+## Support my work
+
+If you enjoy something I've made, you can support my independent projects on Ko-fi.
+
+<div align="center">
+
+<a href="https://ko-fi.com/J3J3489LP">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+</a>
+
+</div>
+
 ---
 
 <div align="center">

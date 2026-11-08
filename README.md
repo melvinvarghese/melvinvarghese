@@ -24,7 +24,7 @@ My projects often begin with a simple question: *Wouldn't it be useful if…?*
 - **Cinema and storytelling** — film diaries, film discovery, and the ways stories shape how we see the world.
 - **Language and access** — Malayalam language resources and tools that make information easier to reach.
 - **Philosophy and ideas** — thought experiments, questions about human understanding, and curious ways of learning.
-- **Creative technology** — small web apps, open-source resources, and experiments that make ideas tangible.
+- **Creative technology** — small web apps, open-source resources, games, and experiments that make ideas tangible.
 
 ## Selected projects
 
@@ -38,6 +38,8 @@ A selection of things I've been building and exploring:
 | [English–Malayalam Dictionary](https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob) | An offline English–Malayalam dictionary packaged for the CaliMob ebook reader. |
 | [Awesome Thought Experiments](https://github.com/melvinvarghese/awesome-thought-experiments) | A curated learning collection of thought experiments, paradoxes, puzzles, and guided reading paths. |
 | [Message from God](https://melvinvarghese.github.io/Message-from-God/) · [Source](https://github.com/melvinvarghese/Message-from-God) | A quiet reflection website offering inspirational messages about hope, peace, courage, and kindness. |
+| [Word Hunt](https://melvinvarghese.github.io/word-hunt/) · [Source](https://github.com/melvinvarghese/word-hunt) | A dark-mode word search game with 5,000 campaign puzzles, vocabulary categories, and a daily challenge. |
+| [Don't Touch Red](https://github.com/melvinvarghese/Don-t-Touch-Red) | A fast-paced gravity survival game: guide a cyan square through red gates and try to beat your high score. |
 
 ## Currently curious about
 

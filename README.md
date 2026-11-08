@@ -37,9 +37,14 @@ A selection of things I've been building and exploring:
 | [Commonplace](https://github.com/melvinvarghese/Commonplace-Reader) | An Android reading and commonplace-book app concept for books, highlights, and notes. |
 | [English–Malayalam Dictionary](https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob) | An offline English–Malayalam dictionary packaged for the CaliMob ebook reader. |
 | [Awesome Thought Experiments](https://github.com/melvinvarghese/awesome-thought-experiments) | A curated learning collection of thought experiments, paradoxes, puzzles, and guided reading paths. |
+| [Little Wonder](https://melvinvarghese.github.io/Little-Wonder/) · [Source](https://github.com/melvinvarghese/Little-Wonder) | A little daily reading room with 60 discoveries across philosophy, literature, history, nature, and science. |
+| [Writing Prompts](https://melvinvarghese.github.io/writing-prompts/) · [Source](https://github.com/melvinvarghese/writing-prompts) | A creative writing companion with genre filters, random prompts, story-seed mixer, and writing timers. |
 | [Message from God](https://melvinvarghese.github.io/Message-from-God/) · [Source](https://github.com/melvinvarghese/Message-from-God) | A quiet reflection website offering inspirational messages about hope, peace, courage, and kindness. |
 | [Word Hunt](https://melvinvarghese.github.io/word-hunt/) · [Source](https://github.com/melvinvarghese/word-hunt) | A dark-mode word search game with 5,000 campaign puzzles, vocabulary categories, and a daily challenge. |
 | [Don't Touch Red](https://github.com/melvinvarghese/Don-t-Touch-Red) | A fast-paced gravity survival game: guide a cyan square through red gates and try to beat your high score. |
+| [QRify](https://melvinvarghese.github.io/QRify/) · [Source](https://github.com/melvinvarghese/QRify) | A privacy-focused QR code generator for links, text, Wi-Fi, email, phone numbers, and contact cards. |
+| [Palette Postcards](https://melvinvarghese.github.io/Palette-Postcards/) · [Source](https://github.com/melvinvarghese/Palette-Postcards) | Turn a photo into a downloadable color-palette postcard with five editable swatches. |
+| [Torrent to Magnet Converter](https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/) · [Source](https://github.com/melvinvarghese/Torrent-to-Magnet-Converter) | Convert torrent files into magnet links directly in your browser, without uploading the files. |
 
 ## Currently curious about
 

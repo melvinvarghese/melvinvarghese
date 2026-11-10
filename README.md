@@ -45,7 +45,7 @@ A selection of things I've been building and exploring:
 | [QRify](https://melvinvarghese.github.io/QRify/) · [Source](https://github.com/melvinvarghese/QRify) | A privacy-focused QR code generator for links, text, Wi-Fi, email, phone numbers, and contact cards. |
 | [Palette Postcards](https://melvinvarghese.github.io/Palette-Postcards/) · [Source](https://github.com/melvinvarghese/Palette-Postcards) | Turn a photo into a downloadable color-palette postcard with five editable swatches. |
 | [Torrent to Magnet Converter](https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/) · [Source](https://github.com/melvinvarghese/Torrent-to-Magnet-Converter) | Convert torrent files into magnet links directly in your browser, without uploading the files. |
-| [Mixtape by Melvin](https://melvinvarghese.github.io/mixtape/) | A personal mixtape of my favourite songs, with artist, album and lyricist pages and a built-in player. |
+| [Mixtape](https://melvinvarghese.github.io/mixtape/) | A personal mixtape of my favourite songs, with artist, album and lyricist pages and a built-in player. |
 
 ## Currently curious about
 

@@ -34,7 +34,7 @@ A selection of things I've been building and exploring:
 | --- | --- |
 | [Frame by Frame](https://melvinvarghese.github.io/letterboxd-profile-analyzer/) · [Source](https://github.com/melvinvarghese/letterboxd-profile-analyzer) | Explore your Letterboxd export through a personal film diary and analytics dashboard. |
 | [TaleAtlas](https://melvinvarghese.github.io/TaleAtlas/) · [Source](https://github.com/melvinvarghese/TaleAtlas) | An illustrated digital storybook featuring folktales from around the world, with 112 stories to discover. |
-| [Commonplace](https://github.com/melvinvarghese/Commonplace-Reader) | An Android reading and commonplace-book app concept for books, highlights, and notes. |
+| [Library Toolkit](https://melvinvarghese.github.io/Library-Toolkit/) | Free browser-based tools for librarians, including barcode generators, ISBN barcodes, and spine labels. |
 | [English–Malayalam Dictionary](https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob) | An offline English–Malayalam dictionary packaged for the CaliMob ebook reader. |
 | [Awesome Thought Experiments](https://github.com/melvinvarghese/awesome-thought-experiments) | A curated learning collection of thought experiments, paradoxes, puzzles, and guided reading paths. |
 | [Little Wonder](https://melvinvarghese.github.io/Little-Wonder/) · [Source](https://github.com/melvinvarghese/Little-Wonder) | A little daily reading room with 60 discoveries across philosophy, literature, history, nature, and science. |
@@ -46,6 +46,7 @@ A selection of things I've been building and exploring:
 | [Palette Postcards](https://melvinvarghese.github.io/Palette-Postcards/) · [Source](https://github.com/melvinvarghese/Palette-Postcards) | Turn a photo into a downloadable color-palette postcard with five editable swatches. |
 | [Torrent to Magnet Converter](https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/) · [Source](https://github.com/melvinvarghese/Torrent-to-Magnet-Converter) | Convert torrent files into magnet links directly in your browser, without uploading the files. |
 | [Mixtape](https://melvinvarghese.github.io/mixtape/) | A personal mixtape of my favourite songs, with artist, album and lyricist pages and a built-in player. |
+| [Commonplace](https://github.com/melvinvarghese/Commonplace-Reader) | An Android reading and commonplace-book app concept for books, highlights, and notes. |
 
 ## Currently curious about
 

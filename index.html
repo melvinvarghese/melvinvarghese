@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#e9fbf6">
-  <title>Melvin Varghese — Librarian, Reader, Writer & Independent Maker</title>
+  <meta name="theme-color" content="#ffe3cf">
+  <title>Melvin Varghese — Librarian, Reader, Writer &amp; Independent Maker</title>
   <meta name="description" content="The personal portfolio of Melvin Varghese: a librarian, reader, writer and independent maker exploring books, cinema, language, philosophy and technology.">
   <link rel="canonical" href="https://melvinvarghese.github.io/melvinvarghese/">
   <meta property="og:type" content="website">
@@ -21,48 +21,51 @@
   <meta name="twitter:image" content="https://melvinvarghese.in/wp-content/uploads/2026/11/melvinvarghese-og-image.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&family=Noto+Serif+Malayalam:wght@400;600&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=Kalam:wght@300;400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300..600;1,8..60,300..600&family=Noto+Serif+Malayalam:wght@400;600&display=swap">
   <link rel="stylesheet" href="style.css">
   <script src="script.js" defer></script>
 </head>
 <body data-tone="light">
   <a class="skip-link" href="#main">Skip to content</a>
 
+  <div class="sky" aria-hidden="true">
+    <div class="stars" id="stars"></div>
+    <div class="sun" id="sun"></div>
+    <div class="moon" id="moon"></div>
+    <svg class="hills" viewBox="0 0 1280 200" preserveAspectRatio="none">
+      <path class="hill-back" d="M0 90 C180 40 340 110 560 70 C780 30 980 100 1280 56 L1280 200 L0 200Z"/>
+      <path class="hill-front" d="M0 130 C220 84 420 150 660 112 C900 74 1090 138 1280 100 L1280 200 L0 200Z"/>
+    </svg>
+    <svg class="palm palm-l" viewBox="0 0 120 220"><use href="#palm"/></svg>
+    <svg class="palm palm-r" viewBox="0 0 120 220"><use href="#palm"/></svg>
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><symbol id="palm" viewBox="0 0 120 220"><path d="M62 220C57 170 66 122 59 76" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"/><path d="M60 76Q40 40 4 64Q36 52 60 76Z"/><path d="M60 76Q44 38 12 34Q42 36 60 76Z"/><path d="M60 76Q58 36 82 14Q66 44 60 76Z"/><path d="M60 76Q82 42 116 56Q84 48 60 76Z"/><path d="M60 76Q80 36 110 36Q84 40 60 76Z"/><path d="M60 76Q74 92 100 100Q76 96 60 76Z"/><path d="M60 76Q46 92 20 98Q44 94 60 76Z"/></symbol></defs></svg>
+  </div>
+
   <header class="top">
-    <a class="name" href="#surface" aria-label="Melvin Varghese, back to the surface">Melvin Varghese</a>
+    <a class="name" href="#dawn" aria-label="Melvin Varghese, back to the dawn">Melvin Varghese</a>
+    <p class="clock" id="clock" aria-hidden="true">5:42 a.m.</p>
     <a class="top-link" href="https://melvinvarghese.in" target="_blank" rel="noopener noreferrer">Visit my website<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a>
   </header>
 
-  <nav class="gauge" aria-label="Depth navigation">
-    <div class="gauge-line"><span class="gauge-marker" id="gauge-marker"></span></div>
-    <ol class="gauge-stops">
-      <li style="--at:0"><a href="#surface">Surface</a></li>
-      <li style="--at:.17"><a href="#sunlight">Sunlight</a></li>
-      <li style="--at:.43"><a href="#twilight">Twilight</a></li>
-      <li style="--at:.7"><a href="#midnight">Midnight</a></li>
-      <li style="--at:1"><a href="#floor">Seabed</a></li>
-    </ol>
-    <p class="gauge-read" id="gauge-read" aria-live="off"><span id="depth-num">0</span> m</p>
-  </nav>
-
   <main id="main">
-    <section class="surface" id="surface" data-from="0" data-to="0" aria-labelledby="hero-title">
-      <div class="light" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
-      <div class="surface-inner">
-        <h1 id="hero-title"><span>Curious by nature.</span> <em>Creating along the way.</em></h1>
+    <section class="dawn" id="dawn" data-h1="5.7" data-h2="6.4" aria-labelledby="hero-title">
+      <div class="dawn-inner">
+        <h1 id="hero-title">Curious by nature.<br>Creating along the way.</h1>
         <p class="hero-intro">I'm Melvin — a librarian, reader, writer and independent maker. I collect ideas, follow questions and turn curiosity into small things worth sharing.</p>
-        <a class="descend" href="#about"><span>Go deeper</span><svg viewBox="0 0 16 24" aria-hidden="true"><path d="M8 2v18M2 14l6 6 6-6"/></svg></a>
+        <p class="whisper">It's a quarter to six. Before the day asks anything of me, there is a question.</p>
+        <a class="descend" href="#morning-about"><span>Spend the day</span><svg viewBox="0 0 16 24" aria-hidden="true"><path d="M8 2v18M2 14l6 6 6-6"/></svg></a>
       </div>
     </section>
 
-    <section class="about" id="about" data-from="0" data-to="60" aria-labelledby="about-title">
+    <section class="about" id="morning-about" data-h1="6.8" data-h2="8.2" aria-labelledby="about-title">
       <div class="about-grid">
-        <figure class="window">
-          <img src="https://melvinvarghese.in/wp-content/uploads/2026/11/melvinvarghese-og-image.jpg" alt="Melvin Varghese looking out over a scenic landscape" loading="lazy" decoding="async">
+        <figure class="print solo" style="--rot:-2.6deg">
+          <div class="photo"><img src="https://melvinvarghese.in/wp-content/uploads/2026/11/melvinvarghese-og-image.jpg" alt="Melvin Varghese looking out over a scenic landscape" loading="lazy" decoding="async"></div>
+          <figcaption class="label"><p class="place">Kerala, India</p></figcaption>
         </figure>
         <div class="about-copy">
-          <h2 id="about-title">A librarian's mind.<br><em>A maker's curiosity.</em></h2>
-          <p class="lead">Most of what I make begins as a quiet question: <em>wouldn't it be useful if…?</em></p>
+          <h2 id="about-title">A librarian's mind.<br>A maker's curiosity.</h2>
+          <p class="lead">Most of what I make begins as a quiet question: wouldn't it be useful if…?</p>
           <p>I'm a librarian by profession and a curious learner by nature. I like collecting ideas, keeping notes, discovering stories, and making small digital things that solve interesting problems.</p>
           <p>Outside the library, you'll often find me reading, writing, watching films, exploring philosophical questions or tinkering with an idea that refuses to leave me alone.</p>
           <p class="interests">Reading and knowledge · Cinema and storytelling · Language and access · Philosophy and ideas · Creative technology</p>
@@ -70,105 +73,98 @@
       </div>
     </section>
 
-    <section class="zone zone-sun" id="sunlight" data-from="60" data-to="200" aria-labelledby="sun-title">
-      <div class="zone-head">
-        <h2 id="sun-title">Sunlight</h2>
-        <p>Where things are bright and quick: games, small tools, playful experiments.</p>
-      </div>
-      <div class="finds">
-        <article class="find" data-depth="12">
-          <a class="plate" href="https://melvinvarghese.github.io/word-hunt/" target="_blank" rel="noopener noreferrer" aria-label="Open Word Hunt"><img src="assets/projects/word-hunt.jpg" alt="Screenshot of Word Hunt" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">12 m</p><h3>Word Hunt</h3><p>A dark-mode word search game with 5,000 campaign puzzles and a daily challenge.</p><a class="go" href="https://melvinvarghese.github.io/word-hunt/" target="_blank" rel="noopener noreferrer">Play it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+    <section class="period" id="morning" data-h1="8.6" data-h2="11.6" aria-labelledby="morning-title">
+      <div class="period-head"><h2 id="morning-title">Morning</h2><p>Small things, made quickly, just to see if they'd work. Games, tools and playful experiments.</p></div>
+      <div class="table t5">
+        <article class="print" style="--rot:-2.4deg">
+          <a class="photo" href="https://melvinvarghese.github.io/word-hunt/" target="_blank" rel="noopener noreferrer" aria-label="Open Word Hunt"><img src="assets/projects/word-hunt.jpg" alt="Screenshot of Word Hunt" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Word Hunt</h3><p>A dark-mode word search game with 5,000 campaign puzzles and a daily challenge.</p><a class="go" href="https://melvinvarghese.github.io/word-hunt/" target="_blank" rel="noopener noreferrer">Play it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="38">
-          <a class="plate" href="https://melvinvarghese.github.io/Don-t-Touch-Red/" target="_blank" rel="noopener noreferrer" aria-label="Open Don't Touch Red"><img src="assets/projects/dont-touch-red.jpg" alt="Screenshot of Don't Touch Red" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">38 m</p><h3>Don't Touch Red</h3><p>A fast-paced gravity survival game: guide a cyan square through red gates.</p><a class="go" href="https://melvinvarghese.github.io/Don-t-Touch-Red/" target="_blank" rel="noopener noreferrer">Play it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:1.8deg">
+          <a class="photo" href="https://melvinvarghese.github.io/Don-t-Touch-Red/" target="_blank" rel="noopener noreferrer" aria-label="Open Don&#x27;t Touch Red"><img src="assets/projects/dont-touch-red.jpg" alt="Screenshot of Don&#x27;t Touch Red" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Don&#x27;t Touch Red</h3><p>A fast-paced gravity survival game: guide a cyan square through red gates.</p><a class="go" href="https://melvinvarghese.github.io/Don-t-Touch-Red/" target="_blank" rel="noopener noreferrer">Play it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="71">
-          <a class="plate" href="https://melvinvarghese.github.io/QRify/" target="_blank" rel="noopener noreferrer" aria-label="Open QRify"><img src="assets/projects/qrify.jpg" alt="Screenshot of QRify" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">71 m</p><h3>QRify</h3><p>A privacy-focused QR generator for links, text, Wi-Fi, email, phone and contact cards.</p><a class="go" href="https://melvinvarghese.github.io/QRify/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:-1.2deg">
+          <a class="photo" href="https://melvinvarghese.github.io/QRify/" target="_blank" rel="noopener noreferrer" aria-label="Open QRify"><img src="assets/projects/qrify.jpg" alt="Screenshot of QRify" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>QRify</h3><p>A privacy-focused QR generator for links, text, Wi-Fi, email, phone and contact cards.</p><a class="go" href="https://melvinvarghese.github.io/QRify/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="118">
-          <a class="plate" href="https://melvinvarghese.github.io/Palette-Postcards/" target="_blank" rel="noopener noreferrer" aria-label="Open Palette Postcards"><img src="assets/projects/palette-postcards.jpg" alt="Screenshot of Palette Postcards" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">118 m</p><h3>Palette Postcards</h3><p>Turn a photo into a downloadable colour-palette postcard with five editable swatches.</p><a class="go" href="https://melvinvarghese.github.io/Palette-Postcards/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:2.6deg">
+          <a class="photo" href="https://melvinvarghese.github.io/Palette-Postcards/" target="_blank" rel="noopener noreferrer" aria-label="Open Palette Postcards"><img src="assets/projects/palette-postcards.jpg" alt="Screenshot of Palette Postcards" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Palette Postcards</h3><p>Turn a photo into a downloadable colour-palette postcard with five editable swatches.</p><a class="go" href="https://melvinvarghese.github.io/Palette-Postcards/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="164">
-          <a class="plate" href="https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/" target="_blank" rel="noopener noreferrer" aria-label="Open Torrent to Magnet Converter"><img src="assets/projects/torrent-to-magnet.jpg" alt="Screenshot of Torrent to Magnet Converter" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">164 m</p><h3>Torrent to Magnet Converter</h3><p>Convert torrent files into magnet links in your browser, without uploading anything.</p><a class="go" href="https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:-1.9deg">
+          <a class="photo" href="https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/" target="_blank" rel="noopener noreferrer" aria-label="Open Torrent to Magnet Converter"><img src="assets/projects/torrent-to-magnet.jpg" alt="Screenshot of Torrent to Magnet Converter" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Torrent to Magnet Converter</h3><p>Convert torrent files into magnet links in your browser, without uploading anything.</p><a class="go" href="https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
       </div>
     </section>
 
-    <div class="thermocline" aria-hidden="true" data-from="200" data-to="200"></div>
-
-    <section class="zone zone-twilight" id="twilight" data-from="200" data-to="1000" aria-labelledby="tw-title">
-      <div class="zone-head">
-        <h2 id="tw-title">Twilight</h2>
-        <p>Stories, films, songs and small rooms for reading. Things that ask you to slow down.</p>
-      </div>
-      <div class="finds">
-        <article class="find" data-depth="260">
-          <a class="plate lit" href="https://melvinvarghese.github.io/letterboxd-profile-analyzer/" target="_blank" rel="noopener noreferrer" aria-label="Open Frame by Frame"><img src="assets/projects/frame-by-frame.jpg" alt="Screenshot of Frame by Frame" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">260 m</p><h3>Frame by Frame</h3><p>Turn your Letterboxd export into a personal film diary and analytics dashboard.</p><a class="go" href="https://melvinvarghese.github.io/letterboxd-profile-analyzer/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+    <section class="period" id="afternoon" data-h1="12.8" data-h2="16.8" aria-labelledby="afternoon-title">
+      <div class="period-head"><h2 id="afternoon-title">Afternoon</h2><p>The slow part of the day: stories, films, songs, and small rooms for reading.</p></div>
+      <div class="table t6">
+        <article class="print" style="--rot:1.6deg">
+          <a class="photo" href="https://melvinvarghese.github.io/letterboxd-profile-analyzer/" target="_blank" rel="noopener noreferrer" aria-label="Open Frame by Frame"><img src="assets/projects/frame-by-frame.jpg" alt="Screenshot of Frame by Frame" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Frame by Frame</h3><p>Turn your Letterboxd export into a personal film diary and analytics dashboard.</p><a class="go" href="https://melvinvarghese.github.io/letterboxd-profile-analyzer/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="340">
-          <a class="plate lit" href="https://melvinvarghese.github.io/TaleAtlas/" target="_blank" rel="noopener noreferrer" aria-label="Open TaleAtlas"><img src="assets/projects/taleatlas.jpg" alt="Screenshot of TaleAtlas" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">340 m</p><h3>TaleAtlas</h3><p>An illustrated digital storybook of folktales from around the world.</p><a class="go" href="https://melvinvarghese.github.io/TaleAtlas/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:-2.2deg">
+          <a class="photo" href="https://melvinvarghese.github.io/TaleAtlas/" target="_blank" rel="noopener noreferrer" aria-label="Open TaleAtlas"><img src="assets/projects/taleatlas.jpg" alt="Screenshot of TaleAtlas" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>TaleAtlas</h3><p>An illustrated digital storybook of folktales from around the world.</p><a class="go" href="https://melvinvarghese.github.io/TaleAtlas/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="470">
-          <a class="plate lit" href="https://melvinvarghese.github.io/mixtape/" target="_blank" rel="noopener noreferrer" aria-label="Open Mixtape"><img src="https://melvinvarghese.github.io/mixtape/assets/mixtape-share.jpg" alt="A vintage cassette tape" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">470 m</p><h3>Mixtape</h3><p>A personal mixtape of my favourite songs, with artist, album and lyricist pages and a built-in player.</p><a class="go" href="https://melvinvarghese.github.io/mixtape/" target="_blank" rel="noopener noreferrer">Listen<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:2.3deg">
+          <a class="photo" href="https://melvinvarghese.github.io/mixtape/" target="_blank" rel="noopener noreferrer" aria-label="Open Mixtape"><img src="https://melvinvarghese.github.io/mixtape/assets/mixtape-share.jpg" alt="A vintage cassette tape" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Mixtape</h3><p>A personal mixtape of my favourite songs, with artist, album and lyricist pages and a built-in player.</p><a class="go" href="https://melvinvarghese.github.io/mixtape/" target="_blank" rel="noopener noreferrer">Listen<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="590">
-          <a class="plate lit" href="https://melvinvarghese.github.io/Little-Wonder/" target="_blank" rel="noopener noreferrer" aria-label="Open Little Wonder"><img src="assets/projects/little-wonder.jpg" alt="Screenshot of Little Wonder" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">590 m</p><h3>Little Wonder</h3><p>A daily reading room with discoveries across philosophy, literature, history, nature and science.</p><a class="go" href="https://melvinvarghese.github.io/Little-Wonder/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:-1.4deg">
+          <a class="photo" href="https://melvinvarghese.github.io/Little-Wonder/" target="_blank" rel="noopener noreferrer" aria-label="Open Little Wonder"><img src="assets/projects/little-wonder.jpg" alt="Screenshot of Little Wonder" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Little Wonder</h3><p>A daily reading room with discoveries across philosophy, literature, history, nature and science.</p><a class="go" href="https://melvinvarghese.github.io/Little-Wonder/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="720">
-          <a class="plate lit" href="https://melvinvarghese.github.io/writing-prompts/" target="_blank" rel="noopener noreferrer" aria-label="Open Writing Prompts"><img src="assets/projects/writing-prompts.jpg" alt="Screenshot of Writing Prompts" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">720 m</p><h3>Writing Prompts</h3><p>A creative writing companion with genre filters, story seeds and writing timers.</p><a class="go" href="https://melvinvarghese.github.io/writing-prompts/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:1.9deg">
+          <a class="photo" href="https://melvinvarghese.github.io/writing-prompts/" target="_blank" rel="noopener noreferrer" aria-label="Open Writing Prompts"><img src="assets/projects/writing-prompts.jpg" alt="Screenshot of Writing Prompts" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Writing Prompts</h3><p>A creative writing companion with genre filters, story seeds and writing timers.</p><a class="go" href="https://melvinvarghese.github.io/writing-prompts/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="880">
-          <a class="plate plate-art lit" href="https://melvinvarghese.github.io/Library-Toolkit/" target="_blank" rel="noopener noreferrer" aria-label="Open Library Toolkit">
-            <svg viewBox="0 0 320 200" role="img" aria-label="Barcode and spine label artwork"><rect width="320" height="200" fill="#0d6b6c"/><g fill="#bff3e6"><rect x="48" y="44" width="4" height="92"/><rect x="58" y="44" width="2" height="92"/><rect x="66" y="44" width="7" height="92"/><rect x="79" y="44" width="3" height="92"/><rect x="88" y="44" width="5" height="92"/><rect x="99" y="44" width="2" height="92"/><rect x="108" y="44" width="8" height="92"/><rect x="122" y="44" width="3" height="92"/><rect x="132" y="44" width="4" height="92"/><rect x="142" y="44" width="2" height="92"/><rect x="150" y="44" width="6" height="92"/><rect x="162" y="44" width="3" height="92"/><rect x="171" y="44" width="2" height="92"/><rect x="180" y="44" width="7" height="92"/><rect x="193" y="44" width="4" height="92"/><rect x="203" y="44" width="2" height="92"/><rect x="211" y="44" width="5" height="92"/><rect x="222" y="44" width="3" height="92"/><rect x="231" y="44" width="7" height="92"/><rect x="244" y="44" width="2" height="92"/><rect x="252" y="44" width="4" height="92"/><rect x="48" y="150" width="204" height="2" opacity=".5"/></g></svg>
-          </a>
-          <div class="find-text"><p class="depth">880 m</p><h3>Library Toolkit</h3><p>Free browser-based tools for librarians: barcode generators, ISBN barcodes and spine labels.</p><a class="go" href="https://melvinvarghese.github.io/Library-Toolkit/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:-2.1deg">
+          <a class="photo" href="https://melvinvarghese.github.io/Library-Toolkit/" target="_blank" rel="noopener noreferrer" aria-label="Open Library Toolkit"><svg viewBox="0 0 320 200" role="img" aria-label="Barcode and spine label artwork"><rect width="320" height="200" fill="#e7d9bd"/><g fill="#3a2a22"><rect x="48" y="46" width="4" height="92"/><rect x="58" y="46" width="2" height="92"/><rect x="66" y="46" width="7" height="92"/><rect x="79" y="46" width="3" height="92"/><rect x="88" y="46" width="5" height="92"/><rect x="99" y="46" width="2" height="92"/><rect x="108" y="46" width="8" height="92"/><rect x="122" y="46" width="3" height="92"/><rect x="132" y="46" width="4" height="92"/><rect x="142" y="46" width="2" height="92"/><rect x="150" y="46" width="6" height="92"/><rect x="162" y="46" width="3" height="92"/><rect x="171" y="46" width="2" height="92"/><rect x="180" y="46" width="7" height="92"/><rect x="193" y="46" width="4" height="92"/><rect x="203" y="46" width="2" height="92"/><rect x="211" y="46" width="5" height="92"/><rect x="222" y="46" width="3" height="92"/><rect x="231" y="46" width="7" height="92"/><rect x="244" y="46" width="2" height="92"/><rect x="252" y="46" width="4" height="92"/><rect x="48" y="150" width="204" height="2" opacity=".5"/></g></svg></a>
+          <div class="label"><h3>Library Toolkit</h3><p>Free browser-based tools for librarians: barcode generators, ISBN barcodes and spine labels.</p><a class="go" href="https://melvinvarghese.github.io/Library-Toolkit/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
       </div>
     </section>
 
-    <section class="zone zone-midnight" id="midnight" data-from="1000" data-to="4000" aria-labelledby="mid-title">
-      <div class="zone-head">
-        <h2 id="mid-title">Midnight</h2>
-        <p>Questions that don't have quick answers. Ideas, words, and the things worth sitting with.</p>
-      </div>
-      <div class="finds">
-        <article class="find" data-depth="1480">
-          <a class="plate lit" href="https://melvinvarghese.github.io/awesome-thought-experiments/" target="_blank" rel="noopener noreferrer" aria-label="Open Awesome Thought Experiments"><img src="assets/projects/awesome-thought-experiments.jpg" alt="Screenshot of Awesome Thought Experiments" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">1,480 m</p><h3>Awesome Thought Experiments</h3><p>A curated collection of thought experiments, paradoxes, puzzles and guided learning paths.</p><a class="go" href="https://melvinvarghese.github.io/awesome-thought-experiments/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+    <section class="sunset" id="sunset" data-h1="17.4" data-h2="18.7" aria-labelledby="sunset-title">
+      <h2 id="sunset-title">Every day ends.<br>What you made stays.</h2>
+    </section>
+
+    <section class="period" id="evening" data-h1="19.3" data-h2="21.0" aria-labelledby="evening-title">
+      <div class="period-head"><h2 id="evening-title">Evening</h2><p>The questions get quieter here. Ideas worth sitting with.</p></div>
+      <div class="table t2">
+        <article class="print" style="--rot:-1.7deg">
+          <a class="photo" href="https://melvinvarghese.github.io/awesome-thought-experiments/" target="_blank" rel="noopener noreferrer" aria-label="Open Awesome Thought Experiments"><img src="assets/projects/awesome-thought-experiments.jpg" alt="Screenshot of Awesome Thought Experiments" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Awesome Thought Experiments</h3><p>A curated collection of thought experiments, paradoxes, puzzles and guided learning paths.</p><a class="go" href="https://melvinvarghese.github.io/awesome-thought-experiments/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
-        <article class="find" data-depth="2150">
-          <a class="plate lit" href="https://melvinvarghese.github.io/Message-from-God/" target="_blank" rel="noopener noreferrer" aria-label="Open Message from God"><img src="assets/projects/message-from-god.jpg" alt="Screenshot of Message from God" loading="lazy" decoding="async"></a>
-          <div class="find-text"><p class="depth">2,150 m</p><h3>Message from God</h3><p>A quiet reflection website with messages about hope, peace, courage and kindness.</p><a class="go" href="https://melvinvarghese.github.io/Message-from-God/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
-        </article>
-        <article class="find" data-depth="2900">
-          <a class="plate plate-art lit" href="https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob" target="_blank" rel="noopener noreferrer" aria-label="Open English–Malayalam Dictionary">
-            <div class="letters" aria-hidden="true"><span class="ml">അ</span><span class="rule"></span><span class="en">A</span></div>
-          </a>
-          <div class="find-text"><p class="depth">2,900 m</p><h3>English–Malayalam Dictionary</h3><p>An offline English–Malayalam dictionary packaged for the CaliMob ebook reader.</p><a class="go" href="https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob" target="_blank" rel="noopener noreferrer">Get the dictionary<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
-        </article>
-        <article class="find" data-depth="3600">
-          <a class="plate plate-art lit" href="https://github.com/melvinvarghese/Commonplace-Reader" target="_blank" rel="noopener noreferrer" aria-label="Open Commonplace">
-            <svg viewBox="0 0 320 200" role="img" aria-label="Three leaning books"><rect width="320" height="200" fill="#0b4f57"/><g transform="rotate(-8 170 120)"><rect x="110" y="48" width="34" height="112" fill="#9bd9cb"/><rect x="150" y="40" width="34" height="120" fill="#e9dfc4"/><rect x="190" y="52" width="34" height="108" fill="#5fb7a8"/></g></svg>
-          </a>
-          <div class="find-text"><p class="depth">3,600 m</p><h3>Commonplace</h3><p>An Android reading and commonplace-book app concept for books, highlights and notes.</p><a class="go" href="https://github.com/melvinvarghese/Commonplace-Reader" target="_blank" rel="noopener noreferrer">See the concept<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        <article class="print" style="--rot:2.1deg">
+          <a class="photo" href="https://melvinvarghese.github.io/Message-from-God/" target="_blank" rel="noopener noreferrer" aria-label="Open Message from God"><img src="assets/projects/message-from-god.jpg" alt="Screenshot of Message from God" loading="lazy" decoding="async"></a>
+          <div class="label"><h3>Message from God</h3><p>A quiet reflection website with messages about hope, peace, courage and kindness.</p><a class="go" href="https://melvinvarghese.github.io/Message-from-God/" target="_blank" rel="noopener noreferrer">Open it<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
         </article>
       </div>
     </section>
 
-    <section class="floor" id="floor" data-from="4000" data-to="4000" aria-labelledby="floor-title">
-      <div class="floor-inner">
-        <h2 id="floor-title">You came a long way down.<br><em>Thank you for staying.</em></h2>
-        <p class="floor-note">Notes, longer thoughts, new experiments or just a hello — these are the other places you can find me.</p>
+    <section class="period" id="night" data-h1="21.5" data-h2="23.3" aria-labelledby="night-title">
+      <div class="period-head"><h2 id="night-title">Night</h2><p>Words, and the things we keep so we can come back to them.</p></div>
+      <div class="table t2">
+        <article class="print" style="--rot:-2.0deg">
+          <a class="photo" href="https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob" target="_blank" rel="noopener noreferrer" aria-label="Open English–Malayalam Dictionary"><div class="letters" aria-hidden="true"><span class="ml">അ</span><span class="rule"></span><span class="en">A</span></div></a>
+          <div class="label"><h3>English–Malayalam Dictionary</h3><p>An offline English–Malayalam dictionary packaged for the CaliMob ebook reader.</p><a class="go" href="https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob" target="_blank" rel="noopener noreferrer">Get the dictionary<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        </article>
+        <article class="print" style="--rot:1.7deg">
+          <a class="photo" href="https://github.com/melvinvarghese/Commonplace-Reader" target="_blank" rel="noopener noreferrer" aria-label="Open Commonplace"><svg viewBox="0 0 320 200" role="img" aria-label="Three leaning books"><rect width="320" height="200" fill="#2a2f5c"/><g transform="rotate(-8 170 120)"><rect x="110" y="48" width="34" height="112" fill="#f2b880"/><rect x="150" y="40" width="34" height="120" fill="#f6e7c9"/><rect x="190" y="52" width="34" height="108" fill="#d77a73"/></g></svg></a>
+          <div class="label"><h3>Commonplace</h3><p>An Android reading and commonplace-book app concept for books, highlights and notes.</p><a class="go" href="https://github.com/melvinvarghese/Commonplace-Reader" target="_blank" rel="noopener noreferrer">See the concept<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="end" id="end" data-h1="23.55" data-h2="23.95" aria-labelledby="end-title">
+      <div class="end-inner">
+        <h2 id="end-title">You spent a whole day here.<br>Thank you.</h2>
+        <p class="end-note">Notes, longer thoughts, new experiments or just a hello — these are the other places you can find me.</p>
         <ul class="elsewhere">
           <li><a href="https://melvinvarghese.in" target="_blank" rel="noopener noreferrer"><span>Personal website</span><b>melvinvarghese.in</b></a></li>
           <li><a href="https://medium.com/@melvinvarghese" target="_blank" rel="noopener noreferrer"><span>Writing</span><b>Medium</b></a></li>
@@ -181,7 +177,7 @@
           <p>If something I've made helped you or made you curious, you can support my independent work.</p>
           <a class="kofi" href="https://ko-fi.com/J3J3489LP" target="_blank" rel="noopener noreferrer">Support me on Ko-fi<svg viewBox="0 0 16 16" aria-hidden="true"><path d="M5 11 11 5M6 5h5v5"/></svg></a>
         </div>
-        <footer class="foot"><small>© <span id="current-year">2026</span> Melvin Varghese · Made with curiosity in Kerala, India.</small><a href="#surface" class="surfacing">Back to the surface<svg viewBox="0 0 16 24" aria-hidden="true"><path d="M8 22V4M2 10l6-6 6 6"/></svg></a></footer>
+        <footer class="foot"><small>© <span id="current-year">2026</span> Melvin Varghese · Made with curiosity in Kerala, India.</small><a href="#dawn" class="again">Wait for the next dawn<svg viewBox="0 0 16 24" aria-hidden="true"><path d="M8 22V4M2 10l6-6 6 6"/></svg></a></footer>
       </div>
     </section>
   </main>

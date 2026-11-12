@@ -32,19 +32,19 @@ A selection of things I've been building and exploring:
 
 | Project | A little about it |
 | --- | --- |
-| [Frame by Frame](https://melvinvarghese.github.io/letterboxd-profile-analyzer/) · [Source](https://github.com/melvinvarghese/letterboxd-profile-analyzer) | Explore your Letterboxd export through a personal film diary and analytics dashboard. |
-| [TaleAtlas](https://melvinvarghese.github.io/TaleAtlas/) · [Source](https://github.com/melvinvarghese/TaleAtlas) | An illustrated digital storybook featuring folktales from around the world, with 112 stories to discover. |
+| [Frame by Frame](https://melvinvarghese.github.io/letterboxd-profile-analyzer/)| Explore your Letterboxd export through a personal film diary and analytics dashboard. |
+| [TaleAtlas](https://melvinvarghese.github.io/TaleAtlas/)  | An illustrated digital storybook featuring folktales from around the world, with 112 stories to discover. |
 | [Library Toolkit](https://melvinvarghese.github.io/Library-Toolkit/) | Free browser-based tools for librarians, including barcode generators, ISBN barcodes, and spine labels. |
 | [English–Malayalam Dictionary](https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob) | An offline English–Malayalam dictionary packaged for the CaliMob ebook reader. |
-| [Awesome Thought Experiments](https://github.com/melvinvarghese/awesome-thought-experiments) | A curated learning collection of thought experiments, paradoxes, puzzles, and guided reading paths. |
-| [Little Wonder](https://melvinvarghese.github.io/Little-Wonder/) · [Source](https://github.com/melvinvarghese/Little-Wonder) | A little daily reading room with 60 discoveries across philosophy, literature, history, nature, and science. |
-| [Writing Prompts](https://melvinvarghese.github.io/writing-prompts/) · [Source](https://github.com/melvinvarghese/writing-prompts) | A creative writing companion with genre filters, random prompts, story-seed mixer, and writing timers. |
-| [Message from God](https://melvinvarghese.github.io/Message-from-God/) · [Source](https://github.com/melvinvarghese/Message-from-God) | A quiet reflection website offering inspirational messages about hope, peace, courage, and kindness. |
-| [Word Hunt](https://melvinvarghese.github.io/word-hunt/) · [Source](https://github.com/melvinvarghese/word-hunt) | A dark-mode word search game with 5,000 campaign puzzles, vocabulary categories, and a daily challenge. |
-| [Don't Touch Red](https://github.com/melvinvarghese/Don-t-Touch-Red) | A fast-paced gravity survival game: guide a cyan square through red gates and try to beat your high score. |
-| [QRify](https://melvinvarghese.github.io/QRify/) · [Source](https://github.com/melvinvarghese/QRify) | A privacy-focused QR code generator for links, text, Wi-Fi, email, phone numbers, and contact cards. |
-| [Palette Postcards](https://melvinvarghese.github.io/Palette-Postcards/) · [Source](https://github.com/melvinvarghese/Palette-Postcards) | Turn a photo into a downloadable color-palette postcard with five editable swatches. |
-| [Torrent to Magnet Converter](https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/) · [Source](https://github.com/melvinvarghese/Torrent-to-Magnet-Converter) | Convert torrent files into magnet links directly in your browser, without uploading the files. |
+| [Awesome Thought Experiments](https://melvinvarghese.github.io/awesome-thought-experiments/)| A curated learning collection of thought experiments, paradoxes, puzzles, and guided reading paths. |
+| [Little Wonder](https://melvinvarghese.github.io/Little-Wonder/)  | A little daily reading room with 60 discoveries across philosophy, literature, history, nature, and science. |
+| [Writing Prompts](https://melvinvarghese.github.io/writing-prompts/) ·| A creative writing companion with genre filters, random prompts, story-seed mixer, and writing timers. |
+| [Message from God](https://melvinvarghese.github.io/Message-from-God/) · | A quiet reflection website offering inspirational messages about hope, peace, courage, and kindness. |
+| [Word Hunt](https://melvinvarghese.github.io/word-hunt/)  | A dark-mode word search game with 5,000 campaign puzzles, vocabulary categories, and a daily challenge. |
+| [Don't Touch Red](https://melvinvarghese.github.io/Don-t-Touch-Red/) | A fast-paced gravity survival game: guide a cyan square through red gates and try to beat your high score. |
+| [QRify](https://melvinvarghese.github.io/QRify/)  | A privacy-focused QR code generator for links, text, Wi-Fi, email, phone numbers, and contact cards. |
+| [Palette Postcards](https://melvinvarghese.github.io/Palette-Postcards/)  | Turn a photo into a downloadable color-palette postcard with five editable swatches. |
+| [Torrent to Magnet Converter](https://melvinvarghese.github.io/Torrent-to-Magnet-Converter/) | Convert torrent files into magnet links directly in your browser, without uploading the files. |
 | [Mixtape](https://melvinvarghese.github.io/mixtape/) | A personal mixtape of my favourite songs, with artist, album and lyricist pages and a built-in player. |
 | [Commonplace](https://github.com/melvinvarghese/Commonplace-Reader) | An Android reading and commonplace-book app concept for books, highlights, and notes. |
 

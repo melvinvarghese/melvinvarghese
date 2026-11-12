@@ -80,4 +80,8 @@ If you enjoy something I've made, you can support my independent projects on Ko-
 
 *Thanks for stopping by. Have a look around, explore a project, or say hello.*
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=melvinvarghese&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>

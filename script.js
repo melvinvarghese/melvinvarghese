@@ -3,7 +3,6 @@
   const body = document.body;
   const sun = document.querySelector('#sun');
   const moon = document.querySelector('#moon');
-  const clock = document.querySelector('#clock');
   const stars = document.querySelector('#stars');
   const meta = document.querySelector('meta[name="theme-color"]');
   const year = document.querySelector('#current-year');
@@ -113,7 +112,6 @@
     const my = horizon - Math.sin(Math.PI * clamp(mq, 0, 1)) * vh * 0.58;
     moon.style.transform = 'translate3d(' + mx.toFixed(1) + 'px,' + my.toFixed(1) + 'px,0)';
 
-    clock.textContent = label(h);
     const dark = h >= 18.75;
     body.dataset.tone = dark ? 'dark' : 'light';
     if (meta) meta.setAttribute('content', p.top);

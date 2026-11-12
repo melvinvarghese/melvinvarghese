@@ -138,7 +138,6 @@ main{position:relative;z-index:1}
   .top{padding:16px 20px 30px}
   .name{font-size:18px}
   .clock{font-size:19px}
-  .top-link{display:none}
   .top{justify-content:space-between}
   .dawn-inner{padding:130px 20px 170px}
   .sun{width:220px;height:220px;margin:-110px 0 0 -110px}
@@ -148,3 +147,6 @@ main{position:relative;z-index:1}
   *,*::before,*::after{animation:none!important;transition:none!important}
 }
 .label .place{margin:0;font-family:var(--hand);font-size:25px;line-height:1.2;color:#2c1a24}
+.nav{display:flex;gap:clamp(16px,2.4vw,34px);font-size:15px;font-weight:500}
+.nav a:hover{text-decoration:underline;text-underline-offset:5px;text-decoration-thickness:1px}
+@media(max-width:860px){.top{flex-wrap:wrap;row-gap:10px}.nav{order:3;width:100%;gap:20px;font-size:14px}}

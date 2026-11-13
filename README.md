@@ -40,6 +40,7 @@ A selection of things I've been building and exploring:
 | [Little Wonder](https://melvinvarghese.github.io/Little-Wonder/)  | A little daily reading room with 60 discoveries across philosophy, literature, history, nature, and science. |
 | [Writing Prompts](https://melvinvarghese.github.io/writing-prompts/) ·| A creative writing companion with genre filters, random prompts, story-seed mixer, and writing timers. |
 | [Message from God](https://melvinvarghese.github.io/Message-from-God/) · | A quiet reflection website offering inspirational messages about hope, peace, courage, and kindness. |
+| [Breathe](https://melvinvarghese.github.io/Breathe/) | Guided breathing exercises for everyday moments, with a gentle animated guide and practices for calm, focus, and sleep. |
 | [Word Hunt](https://melvinvarghese.github.io/word-hunt/)  | A dark-mode word search game with 5,000 campaign puzzles, vocabulary categories, and a daily challenge. |
 | [Don't Touch Red](https://melvinvarghese.github.io/Don-t-Touch-Red/) | A fast-paced gravity survival game: guide a cyan square through red gates and try to beat your high score. |
 | [QRify](https://melvinvarghese.github.io/QRify/)  | A privacy-focused QR code generator for links, text, Wi-Fi, email, phone numbers, and contact cards. |

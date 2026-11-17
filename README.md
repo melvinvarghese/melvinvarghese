@@ -32,6 +32,7 @@ A selection of things I've been building and exploring:
 
 | Project | A little about it |
 | --- | --- |
+| Pusthakam | A fully offline library management system for every kind of library, with cataloguing, circulation, members, reports, and barcode printing. Coming soon. |
 | [Frame by Frame](https://melvinvarghese.github.io/letterboxd-profile-analyzer/)| Explore your Letterboxd export through a personal film diary and analytics dashboard. |
 | [TaleAtlas](https://melvinvarghese.github.io/TaleAtlas/)  | An illustrated digital storybook featuring folktales from around the world, with 112 stories to discover. |
 | [Library Toolkit](https://melvinvarghese.github.io/Library-Toolkit/) | Free browser-based tools for librarians, including barcode generators, ISBN barcodes, and spine labels. |

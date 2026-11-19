@@ -77,8 +77,7 @@ If you enjoy something I've made, you can support my independent projects on Ko-
 ---
 
 <div align="center">
-
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=6&theme=transparent)](https://github.com/melvinvarghese)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=20&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=melvinvarghese&layout=compact&langs_count=20&theme=transparent)
 
 *Thanks for stopping by. Have a look around, explore a project, or say hello.*
 

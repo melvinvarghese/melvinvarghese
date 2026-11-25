@@ -37,8 +37,10 @@ A selection of things I've been building and exploring:
 | [TaleAtlas](https://melvinvarghese.github.io/TaleAtlas/)  | An illustrated digital storybook featuring folktales from around the world, with 112 stories to discover. |
 | [Library Toolkit](https://melvinvarghese.github.io/Library-Toolkit/) | Free browser-based tools for librarians, including barcode generators, ISBN barcodes, and spine labels. |
 | [English–Malayalam Dictionary](https://github.com/melvinvarghese/English-to-Malayalam-Dictionary-for-Calimob) | An offline English–Malayalam dictionary packaged for the CaliMob ebook reader. |
+| [DDC Number Checker](https://melvinvarghese.github.io/ddc-number-checker/) | A browser-based Dewey Decimal Classification finder with ISBN lookups and preliminary book-number suggestions. |
 | [Awesome Thought Experiments](https://melvinvarghese.github.io/awesome-thought-experiments/)| A curated learning collection of thought experiments, paradoxes, puzzles, and guided reading paths. |
 | [Little Wonder](https://melvinvarghese.github.io/Little-Wonder/)  | A little daily reading room with 60 discoveries across philosophy, literature, history, nature, and science. |
+| [Feynman Learning Companion](https://melvinvarghese.github.io/Feynman-Learning-Companion/) | An AI learning companion that uses the Feynman Technique and Socratic questions to help learners explain concepts and find gaps. |
 | [Writing Prompts](https://melvinvarghese.github.io/writing-prompts/) | A creative writing companion with genre filters, random prompts, story-seed mixer, and writing timers. |
 | [Message from God](https://melvinvarghese.github.io/Message-from-God/)  | A quiet reflection website offering inspirational messages about hope, peace, courage, and kindness. |
 | [Breathe](https://melvinvarghese.github.io/Breathe/) | Guided breathing exercises for everyday moments, with a gentle animated guide and 24 practices for settling, focus, rest, and energy. |
